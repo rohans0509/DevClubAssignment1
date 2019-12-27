@@ -1,2 +1,1 @@
-This is a test
-No
+I think Devclub is a club that explores the idea of developing software on various platforms
